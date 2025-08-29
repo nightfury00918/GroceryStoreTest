@@ -1,0 +1,10 @@
+# sample-products.csv  place in project root (same directory as pom.xml)
+# format: id,name,unit,price
+# unit = PIECE or WEIGHT
+BANANA,Banana (kg),WEIGHT,1.99
+MILK,Milk 1L,PIECE,1.25
+EGGS,Eggs (dozen),PIECE,2.50
+APPLE,Fresh Apple (kg),WEIGHT,3.50
+CHIPS,Bag of Chips,PIECE,35.00
+RICE,Rice (kg),WEIGHT,45.00
+CHOC,Chocolate Bar,PIECE,2.99
