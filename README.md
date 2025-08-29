@@ -207,14 +207,6 @@ CHOC,Chocolate Bar,PIECE,2.99
 /docs/screenshots/result-2.png
 ```
 
-Add these files to the repo and reference them in this README using relative paths. Example Markdown to embed them:
-
-```markdown
-![Checkout result 1](docs/screenshots/result-1.png)
-
-![Checkout result 2](docs/screenshots/result-2.png)
-```
-
 
 ## Project structure
 (Top-level important files)
